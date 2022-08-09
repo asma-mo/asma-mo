@@ -10,8 +10,7 @@ This year goals are:
 • Publish my application on App store!
 • finishing my open source project >> will provide the details once it done⏳
 
-Love and live by the fact that EVERY thing around me are build by human who has the same brain that I have
-and I can build and do the same and even more!!!
+Love and live by the fact that EVERY thing around me has been build by human who has the same brain that I have and I can build and do the same and even more!!!
 
 Have interest in:
 • Cyber security 
