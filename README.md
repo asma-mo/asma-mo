@@ -17,5 +17,5 @@ Have interest in:
 • AI and ML particularly
 • Optical Computing 
 
-Basically, I am an eager learner who wants to know and do everything by myself, and That's probably the reason I'm depressed 🐒
+Basically, I am an eager learner who wants to know and do everything by myself, and That's probably the reason I'm depressed 🐒,
 However, I have a good team spirit and I'm a natural leader 😇
