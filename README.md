@@ -7,9 +7,9 @@ Have knlowledge in:
 • Node.js
 • Python
 • C++
-• Web scraping (using BS4 and Selneium)
 • Java
 • SQL
+• Web scraping (using BS4 and Selneium)
 
 Love and live by the fact that everything around me has been built by humans who have the same brain that I have, and I can build and do the same, and even more!
 
