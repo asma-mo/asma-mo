@@ -1,8 +1,15 @@
 Have knlowledge in:
+
+• Java Script
+• React.js
+• REST api
+• MongoDB
+• Node.js
+• Python
 • C++
+• Web scraping (using BS4 and Selneium)
 • Java
 • SQL
-• Java Script
 
 Love and live by the fact that everything around me has been built by humans who have the same brain that I have, and I can build and do the same, and even more!
 
