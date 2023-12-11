@@ -20,7 +20,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 <br>
 
-### 🖋️ I occasionally write blog posts on **[Medium](https://medium.com/@asma.mo)** 
+🖋️ I occasionally write blog posts on **[Medium](https://medium.com/@asma.mo)** 
 
 
 
