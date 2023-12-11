@@ -31,7 +31,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 <br>
 ## Languages and Tools:
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
