@@ -3,6 +3,8 @@
 <h1 align="center" style="color:#ff6347;">Hello There, I’m Asma</h1>
 <h3 align="center" style="color:#ff6347;">I'm a passionate developer and a relentless innovator</h3>
 
+<br>
+
 ![Profile views](https://komarev.com/ghpvc/?username=asma-mo&color=blue)
 
 ## 🌟 A Bit About Me
@@ -31,7 +33,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 ###### Header 6
 
 ## Code:
-<img src="https://wakatime.com/share/@asma_mo/5a492eee-9007-454b-be1d-8a216aef15a1.png" />
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@asma_mo/238e0982-af33-4c93-84ee-e66a97f6c9b5.png" /></a>
 
 
 ## My GitHub stats
