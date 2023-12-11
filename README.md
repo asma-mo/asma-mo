@@ -23,7 +23,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 ###### Header 6
 
 ## Code:
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@asma_mo/5a492eee-9007-454b-be1d-8a216aef15a1.png" /></a>
+<img src="https://wakatime.com/share/@asma_mo/5a492eee-9007-454b-be1d-8a216aef15a1.png" />
 
 
 ## My GitHub stats
