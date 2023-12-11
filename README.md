@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif">
+<img src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif">
 
 <h1 align="center" style="color:#ff6347;">Hello There, I’m Asma</h1>
 <h3 align="center" style="color:#ff6347;">I'm a passionate developer and a relentless innovator</h3>
