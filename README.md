@@ -1,7 +1,6 @@
-<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif"  width="100" height="100">
-# Hi 
-
+<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif">
 # Hi There, I’m Asma
+
 ## Header 2
 ### Header 3
 #### Header 4
