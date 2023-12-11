@@ -18,7 +18,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 <br>
 
-<p style="font-size: 16px;" >I occasionally write blog posts at <a href="https://medium.com/@asma.mo">
+<p style="font-size: 56px;" >I occasionally write blog posts at <a href="https://medium.com/@asma.mo">
   <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium" width="100" alt="Medium"/>
 </a></p>
 
