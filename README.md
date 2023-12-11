@@ -29,8 +29,11 @@ I believe everything amazing around us was built by someone no smarter than you 
 ![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
 
 <br>
+
 ## Languages and Tools:
+
 <br>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
