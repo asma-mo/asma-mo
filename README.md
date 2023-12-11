@@ -36,6 +36,6 @@ I believe everything amazing around us was built by someone no smarter than you 
 </a>
 
 <a href="https://twitter.com/yourTwitterHandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="20"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  width="100"/>
 </a>
 
