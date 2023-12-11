@@ -5,7 +5,6 @@
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=asma-mo&color=blue)
 
 ## 🌟 A Bit About Me
 I believe everything amazing around us was built by someone no smarter than you or me. That drives me to build, create, and exceed limits! I'm an eager learner, forever curious, and a bit of a tech-philosopher.
@@ -23,10 +22,17 @@ I believe everything amazing around us was built by someone no smarter than you 
 🖋️ I occasionally write blog posts on **[Medium](https://medium.com/@asma.mo)** 
 
 <br>
+
+![Profile views](https://komarev.com/ghpvc/?username=asma-mo&color=blue)
+
+<br>
 <br>
 
 ## My GitHub stats
+
+<p align="center">
 ![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
+</p>
 
 <br>
 
