@@ -32,10 +32,10 @@ I believe everything amazing around us was built by someone no smarter than you 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mo&size_weight=0.5&count_weight=0.5"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=asma-mo&rank_icon=github" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=asma-mo&rank_icon=github" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mo&size_weight=0.5&count_weight=0.5"/>
     </td>
   </tr>
 </table>
