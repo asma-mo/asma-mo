@@ -8,7 +8,13 @@
 ## 🌟 A Bit About Me
 I believe everything amazing around us was built by someone no smarter than you or me. That drives me to build, create, and exceed limits! I'm an eager learner, forever curious, and a bit of a tech-philosopher.
 
+
 - ⚙️ I'm currently Working on **SOHO**
+- 💡 I’m currently learning **React.js**
+- 💬 Contact me on **[Asma.dev@outlook.com](mailto:Asma.dev@outlook.com)** **[LinkedIn](https://www.linkedin.com/in/asma-alhadran/)**
+- 🚀 Let's team up and transform our ideas into awesomely fun and innovative projects! 
+
+
 
 ### Header 3
 #### Header 4
