@@ -35,7 +35,7 @@ I believe everything amazing around us was built by someone no smarter than you 
       <img src="https://github-readme-stats.vercel.app/api?username=asma-mo&rank_icon=github" width="700px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mo&size_weight=0.5&count_weight=0.5" width="700px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mo&size_weight=0.5&count_weight=0.5" />
     </td>
   </tr>
 </table>
