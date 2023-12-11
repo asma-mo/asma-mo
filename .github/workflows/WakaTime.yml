@@ -2,8 +2,8 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Schedule updates for once every day (change cron as needed)
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Runs at midnight UTC
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   update-readme:
@@ -15,6 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Optional: set to true if you want to show more details
+          # Optional: Additional configuration for WakaTime stats
           SHOW_OS: true
           SHOW_PROJECTS: true
