@@ -9,7 +9,7 @@
 ###### Header 6
 
 ## This week I spent my time on:
-![WakaTime Stats](https://wakatime.com/badge/user/waka_95f1befb47ca.svg)
+![WakaTime Stats](https://wakatime.com/badge/user/asma_mo.svg)
 
 
 ## My GitHub stats
