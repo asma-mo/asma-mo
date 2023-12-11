@@ -29,9 +29,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 ## My GitHub stats
 
-[![Asma's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asma-mo)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mo&size_weight=0.5&count_weight=0.5)
 <br>
 
 ## Languages and Tools:
