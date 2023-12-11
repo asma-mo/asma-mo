@@ -29,6 +29,14 @@ I believe everything amazing around us was built by someone no smarter than you 
 ![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
 
 <br>
+## Languages and Tools:
+
+![Android](https://img.shields.io/badge/Android-Studio-green)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+<br>
 
 ## connect with me on 
 <a href="https://www.linkedin.com/in/asma-alhadran/">
