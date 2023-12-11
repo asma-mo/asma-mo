@@ -8,5 +8,9 @@
 ##### Header 5
 ###### Header 6
 
+ ## This week I spent my time on:
+![WakaTime Stats](https://github.com/asma-mo/github-readme-stats)
+
+
 ## My GitHub stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
