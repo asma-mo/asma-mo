@@ -31,7 +31,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asma.mo)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asma_mo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
