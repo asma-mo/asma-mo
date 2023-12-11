@@ -20,7 +20,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 <br>
 
-### I occasionally write blog posts at
+### ✒️I occasionally write blog posts on
   <a href="https://medium.com/@asma.mo" style="display: inline-block; vertical-align: middle;">
   <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium" height="40" alt="Medium"/>
 </a>
@@ -31,9 +31,6 @@ I believe everything amazing around us was built by someone no smarter than you 
 #### Header 4
 ##### Header 5
 ###### Header 6
-
-## Code:
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@asma_mo/238e0982-af33-4c93-84ee-e66a97f6c9b5.png" /></a>
 
 
 ## My GitHub stats
