@@ -6,7 +6,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=asma-mo&color=blue)
 
 ## 🌟 A Bit About Me
-I believe everything amazing around us was built by someone no smarter than you or me. That drives me to build, create, and exceed limits! I'm an eager learner, forever curious, and a bit of a tech-philosopher. 🐒
+I believe everything amazing around us was built by someone no smarter than you or me. That drives me to build, create, and exceed limits! I'm an eager learner, forever curious, and a bit of a tech-philosopher.
 
 ### Header 3
 #### Header 4
