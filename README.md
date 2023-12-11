@@ -22,11 +22,13 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 🖋️ I occasionally write blog posts on **[Medium](https://medium.com/@asma.mo)** 
 
-
+<br>
+<br>
 
 ## My GitHub stats
 ![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
 
+<br>
 
 ## connect with me on 
 <a href="https://www.linkedin.com/in/asma-alhadran/">
