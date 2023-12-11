@@ -13,9 +13,13 @@ I believe everything amazing around us was built by someone no smarter than you 
 - ⚙️ I'm currently Working on **SOHO**
 - 💡 I’m currently learning **React.js**
 - 💬 Reach out to me at  **[Asma.dev@outlook.com](mailto:Asma.dev@outlook.com)** 
-- 🚀 Let's team up and transform our ideas into awesomely fun and innovative projects! 
+- 🚀 Let's team up and transform our ideas into awesomely fun and innovative projects!
 
-### I occasionally write blog posts at **[Medium](https://medium.com/@asma.mo)**
+<br>
+
+## I occasionally write blog posts at <a href="https://medium.com/@asma.mo">
+  <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium" width="100" alt="Medium"/>
+</a>
 
 ### Header 3
 #### Header 4
@@ -28,3 +32,12 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 ## My GitHub stats
 ![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
+
+
+connect with me on <a href="https://www.linkedin.com/in/asma-alhadran/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" width="100" alt="LinkedIn"/>
+</a>
+
+connect with me on <a href="https://www.linkedin.com/in/asma-alhadran/">
+  <img src="https://img.shields.io/badge/Medium?style=flat-square&logo=medium" width="100" alt="LinkedIn"/>
+</a>
