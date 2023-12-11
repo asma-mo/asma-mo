@@ -31,10 +31,10 @@ I believe everything amazing around us was built by someone no smarter than you 
 ## My GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asma-mo" alt="Asma's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mo&langs_count=3&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mo&langs_count=3&theme=dark&exclude_repo=repo1,repo2" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mo&layout=compact)
 
 
 <br>
