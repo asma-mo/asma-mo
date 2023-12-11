@@ -23,8 +23,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 ###### Header 6
 
 ## This week I spent my time on:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@asma_mo/298538d1-057b-4fec-9f47-517dbfd80bfb.svg"></embed></figure>
 
 
 ## My GitHub stats
