@@ -20,10 +20,11 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 <p style="font-size: 20px; line-height: 20px; display: inline-block; vertical-align: middle;">
   I occasionally write blog posts at
-</p>
-<a href="https://medium.com/@asma.mo" style="display: inline-block; vertical-align: middle;">
+  <a href="https://medium.com/@asma.mo" style="display: inline-block; vertical-align: middle;">
   <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium" height="20" alt="Medium"/>
 </a>
+</p>
+
 
 
 ### Header 3
