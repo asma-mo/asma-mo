@@ -29,9 +29,9 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 ## My GitHub stats
 
-<table border=none>
-  <tr border=none>
-    <td border=none>
+<table>
+  <tr>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=asma-mo&rank_icon=github" width="700px" />
     </td>
     <td>
