@@ -34,7 +34,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/React-20232A?)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
