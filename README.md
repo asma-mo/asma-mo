@@ -31,8 +31,9 @@ I believe everything amazing around us was built by someone no smarter than you 
 ## My GitHub stats
 
 <p align="center">
-![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
+  <img src="https://github-readme-stats.vercel.app/api?username=asma-mo" alt="Asma's GitHub Stats">
 </p>
+
 
 <br>
 
