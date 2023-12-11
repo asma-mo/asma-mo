@@ -11,7 +11,7 @@ I believe everything amazing around us was built by someone no smarter than you 
 
 - ⚙️ I'm currently Working on **SOHO**
 - 💡 I’m currently learning **React.js**
-- 💬 Reach out to me at  **[Asma.dev@outlook.com](mailto:Asma.dev@outlook.com)** or connect with me on ![LinkedIn](https://www.linkedin.com/in/asma-alhadran/)
+- 💬 Reach out to me at  **[Asma.dev@outlook.com](mailto:Asma.dev@outlook.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/asma-alhadran/)**
 - 🚀 Let's team up and transform our ideas into awesomely fun and innovative projects! 
 
 
