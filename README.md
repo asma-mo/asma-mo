@@ -26,21 +26,16 @@ I believe everything amazing around us was built by someone no smarter than you 
 </a>
 
 
-
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
-
 ## My GitHub stats
 ![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
 
 
-connect with me on <a href="https://www.linkedin.com/in/asma-alhadran/">
+## connect with me on 
+<a href="https://www.linkedin.com/in/asma-alhadran/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" width="100" alt="LinkedIn"/>
 </a>
 
-connect with me on <a href="https://www.linkedin.com/in/asma-alhadran/">
-  <img src="https://img.shields.io/badge/Medium?style=flat-square&logo=medium" width="100" alt="LinkedIn"/>
+<a href="https://xplatform.com/yourXplatformhandle">
+  <img src="https://img.shields.io/badge/X?style=flat-square&logo=x" alt="X"/>
 </a>
+
