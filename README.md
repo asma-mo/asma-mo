@@ -11,6 +11,9 @@
 ## This week I spent my time on:
 ![WakaTime Stats](https://wakatime.com/badge/user/asma_mo.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## My GitHub stats
 ![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-mo)
