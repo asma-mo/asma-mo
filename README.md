@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/12Yv9wcgfhDHe6LX1RVsKm1PYUP0-nQ1m/view?usp=sharing" width="8000" height="800">
+<img src="//imgur.com/a/mnL2nVL" width="8000" height="800">
 
 <h1 align="center" style="color:#ff6347;">Hello There, I’m Asma</h1>
 <h3 align="center" style="color:#ff6347;">I'm a passionate developer and a relentless innovator</h3>
